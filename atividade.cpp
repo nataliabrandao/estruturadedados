@@ -1,6 +1,7 @@
 /***********************************
  EXERCÍCIO - ESTRUTURA DE DADOS 
  NOME: NATÁLIA BRANDÃO DE SOUSA 
+ PROF: Rafael Pinho
  
 ***********************************/
 
